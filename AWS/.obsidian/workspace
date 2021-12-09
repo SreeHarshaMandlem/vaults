@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "5efdfe1b14dc10d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fd11de68e247e9e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SES/Sending Email using Amazon SES SMTP Interface.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b62db319bd083d6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "59e18c6083124bcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3d0b44490a38d5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "93ffab25e1c24771",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210
+  },
+  "right": {
+    "id": "4e447a760e2a2bf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a31cb0feef4e3f2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4a2b44e078266b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SES/Sending Email using Amazon SES SMTP Interface.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0fd11de68e247e9e",
+  "lastOpenFiles": [
+    "SES/Sending Email using Amazon SES SMTP Interface.md",
+    "SES/Testing email sending in Amazon SES.md"
+  ]
+}
